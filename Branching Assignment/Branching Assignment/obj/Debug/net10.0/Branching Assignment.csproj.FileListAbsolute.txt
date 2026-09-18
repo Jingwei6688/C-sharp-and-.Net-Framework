@@ -1,0 +1,30 @@
+C:\Users\Lucas\Desktop\Basic_C#_Programs\Branching Assignment\obj\Debug\net10.0\Branching Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Basic_C#_Programs\Branching Assignment\obj\Debug\net10.0\Branching Assignment.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Basic_C#_Programs\Branching Assignment\obj\Debug\net10.0\Branching Assignment.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Basic_C#_Programs\Branching Assignment\obj\Debug\net10.0\Branching Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Basic_C#_Programs\Branching Assignment\bin\Debug\net10.0\Branching Assignment.exe
+C:\Users\Lucas\Desktop\Basic_C#_Programs\Branching Assignment\bin\Debug\net10.0\Branching Assignment.deps.json
+C:\Users\Lucas\Desktop\Basic_C#_Programs\Branching Assignment\bin\Debug\net10.0\Branching Assignment.runtimeconfig.json
+C:\Users\Lucas\Desktop\Basic_C#_Programs\Branching Assignment\bin\Debug\net10.0\Branching Assignment.dll
+C:\Users\Lucas\Desktop\Basic_C#_Programs\Branching Assignment\bin\Debug\net10.0\Branching Assignment.pdb
+C:\Users\Lucas\Desktop\Basic_C#_Programs\Branching Assignment\obj\Debug\net10.0\Branching Assignment.dll
+C:\Users\Lucas\Desktop\Basic_C#_Programs\Branching Assignment\obj\Debug\net10.0\refint\Branching Assignment.dll
+C:\Users\Lucas\Desktop\Basic_C#_Programs\Branching Assignment\obj\Debug\net10.0\Branching Assignment.pdb
+C:\Users\Lucas\Desktop\Basic_C#_Programs\Branching Assignment\obj\Debug\net10.0\Branching Assignment.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Basic_C#_Programs\Branching Assignment\obj\Debug\net10.0\ref\Branching Assignment.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\bin\Debug\net10.0\Branching Assignment.exe
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\bin\Debug\net10.0\Branching Assignment.deps.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\bin\Debug\net10.0\Branching Assignment.runtimeconfig.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\bin\Debug\net10.0\Branching Assignment.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\bin\Debug\net10.0\Branching Assignment.pdb
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\obj\Debug\net10.0\Branching Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\obj\Debug\net10.0\Branching Assignment.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\obj\Debug\net10.0\Branching Assignment.AssemblyInfo.cs
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\obj\Debug\net10.0\Branching Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\obj\Debug\net10.0\Branching Assignment.sourcelink.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\obj\Debug\net10.0\Branching Assignment.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\obj\Debug\net10.0\refint\Branching Assignment.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\obj\Debug\net10.0\Branching Assignment.pdb
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\obj\Debug\net10.0\Branching Assignment.genruntimeconfig.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\obj\Debug\net10.0\ref\Branching Assignment.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\Branching Assignment\Branching Assignment\obj\Debug\net10.0\Branchin.6EBAAEC0.Up2Date
