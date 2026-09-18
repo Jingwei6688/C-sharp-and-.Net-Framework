@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\BranchingAssignment\\PackageExpress\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18FC2EC8-F0C9-472C-AD74-C8505C54CFE6}|PackageExpress.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\branchingassignment\\packageexpress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FC2EC8-F0C9-472C-AD74-C8505C54CFE6}|PackageExpress.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\BranchingAssignment\\PackageExpress\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\BranchingAssignment\\PackageExpress\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T14:06:30.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

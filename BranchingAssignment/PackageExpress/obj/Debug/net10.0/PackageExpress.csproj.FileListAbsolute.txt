@@ -1,0 +1,16 @@
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\bin\Debug\net10.0\PackageExpress.exe
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\bin\Debug\net10.0\PackageExpress.deps.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\bin\Debug\net10.0\PackageExpress.runtimeconfig.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\bin\Debug\net10.0\PackageExpress.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\bin\Debug\net10.0\PackageExpress.pdb
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\obj\Debug\net10.0\PackageExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\obj\Debug\net10.0\PackageExpress.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\obj\Debug\net10.0\PackageExpress.AssemblyInfo.cs
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\obj\Debug\net10.0\PackageExpress.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\obj\Debug\net10.0\PackageExpress.sourcelink.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\obj\Debug\net10.0\PackageExpress.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\obj\Debug\net10.0\refint\PackageExpress.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\obj\Debug\net10.0\PackageExpress.pdb
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\obj\Debug\net10.0\PackageExpress.genruntimeconfig.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\obj\Debug\net10.0\ref\PackageExpress.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\BranchingAssignment\PackageExpress\obj\Debug\net10.0\PackageE.B1180431.Up2Date
