@@ -1,0 +1,16 @@
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\bin\Debug\net10.0\MathOperation.exe
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\bin\Debug\net10.0\MathOperation.deps.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\bin\Debug\net10.0\MathOperation.runtimeconfig.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\bin\Debug\net10.0\MathOperation.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\bin\Debug\net10.0\MathOperation.pdb
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\obj\Debug\net10.0\MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\obj\Debug\net10.0\MathOperation.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\obj\Debug\net10.0\MathOperation.AssemblyInfo.cs
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\obj\Debug\net10.0\MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\obj\Debug\net10.0\MathOperation.sourcelink.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\obj\Debug\net10.0\MathOperation.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\obj\Debug\net10.0\refint\MathOperation.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\obj\Debug\net10.0\MathOperation.pdb
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\obj\Debug\net10.0\MathOperation.genruntimeconfig.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\obj\Debug\net10.0\ref\MathOperation.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\MethodClassAssignment\MathOperation\obj\Debug\net10.0\MathOper.FE5DAD6C.Up2Date
