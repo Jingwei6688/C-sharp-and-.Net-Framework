@@ -1,0 +1,16 @@
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\bin\Debug\net10.0\PolymorphismPractice.exe
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\bin\Debug\net10.0\PolymorphismPractice.deps.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\bin\Debug\net10.0\PolymorphismPractice.runtimeconfig.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\bin\Debug\net10.0\PolymorphismPractice.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\bin\Debug\net10.0\PolymorphismPractice.pdb
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\obj\Debug\net10.0\PolymorphismPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\obj\Debug\net10.0\PolymorphismPractice.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\obj\Debug\net10.0\PolymorphismPractice.AssemblyInfo.cs
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\obj\Debug\net10.0\PolymorphismPractice.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\obj\Debug\net10.0\PolymorphismPractice.sourcelink.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\obj\Debug\net10.0\PolymorphismPractice.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\obj\Debug\net10.0\refint\PolymorphismPractice.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\obj\Debug\net10.0\PolymorphismPractice.pdb
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\obj\Debug\net10.0\PolymorphismPractice.genruntimeconfig.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\obj\Debug\net10.0\ref\PolymorphismPractice.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\PolymorphismAssignment\PolymorphismPractice\obj\Debug\net10.0\Polymorp.4D839CDE.Up2Date
