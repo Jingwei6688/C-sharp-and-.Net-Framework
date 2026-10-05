@@ -1,0 +1,16 @@
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\bin\Debug\net10.0\OperatorsReloadPractice.exe
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\bin\Debug\net10.0\OperatorsReloadPractice.deps.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\bin\Debug\net10.0\OperatorsReloadPractice.runtimeconfig.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\bin\Debug\net10.0\OperatorsReloadPractice.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\bin\Debug\net10.0\OperatorsReloadPractice.pdb
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\obj\Debug\net10.0\OperatorsReloadPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\obj\Debug\net10.0\OperatorsReloadPractice.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\obj\Debug\net10.0\OperatorsReloadPractice.AssemblyInfo.cs
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\obj\Debug\net10.0\OperatorsReloadPractice.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\obj\Debug\net10.0\OperatorsReloadPractice.sourcelink.json
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\obj\Debug\net10.0\OperatorsReloadPractice.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\obj\Debug\net10.0\refint\OperatorsReloadPractice.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\obj\Debug\net10.0\OperatorsReloadPractice.pdb
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\obj\Debug\net10.0\OperatorsReloadPractice.genruntimeconfig.cache
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\obj\Debug\net10.0\ref\OperatorsReloadPractice.dll
+C:\Users\Lucas\Documents\MyCodes\C-sharp-and-.Net-Framework\OperatorsAssignment\OperatorsReloadPractice\obj\Debug\net10.0\Operator.B78D4A68.Up2Date
