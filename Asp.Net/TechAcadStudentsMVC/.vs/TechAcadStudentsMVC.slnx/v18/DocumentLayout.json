@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechAcadStudentsMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53226417-92FD-413E-9B19-485CE2F60E86}|TechAcadStudentsMVC.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\techacadstudentsmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53226417-92FD-413E-9B19-485CE2F60E86}|TechAcadStudentsMVC.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53226417-92FD-413E-9B19-485CE2F60E86}|TechAcadStudentsMVC.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\techacadstudentsmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53226417-92FD-413E-9B19-485CE2F60E86}|TechAcadStudentsMVC.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53226417-92FD-413E-9B19-485CE2F60E86}|TechAcadStudentsMVC.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\techacadstudentsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53226417-92FD-413E-9B19-485CE2F60E86}|TechAcadStudentsMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53226417-92FD-413E-9B19-485CE2F60E86}|TechAcadStudentsMVC.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\techacadstudentsmvc\\views\\home\\instructors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53226417-92FD-413E-9B19-485CE2F60E86}|TechAcadStudentsMVC.csproj|solutionrelative:views\\home\\instructors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53226417-92FD-413E-9B19-485CE2F60E86}|TechAcadStudentsMVC.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\techacadstudentsmvc\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53226417-92FD-413E-9B19-485CE2F60E86}|TechAcadStudentsMVC.csproj|solutionrelative:models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechAcadStudentsMVC\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechAcadStudentsMVC\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T21:09:27.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechAcadStudentsMVC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechAcadStudentsMVC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T21:05:38.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechAcadStudentsMVC\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechAcadStudentsMVC\\Models\\Instructor.cs",
+              "RelativeToolTip": "Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T20:53:42.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instructors.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechAcadStudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Instructors.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechAcadStudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "RelativeToolTip": "Views\\Home\\Instructors.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T20:47:11.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechAcadStudentsMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechAcadStudentsMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T20:32:15.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

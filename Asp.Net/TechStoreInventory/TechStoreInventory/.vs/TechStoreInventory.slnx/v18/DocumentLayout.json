@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\techstoreinventory\\techstoreinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\techstoreinventory\\techstoreinventory\\controllers\\data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|solutionrelative:controllers\\data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\techstoreinventory\\techstoreinventory\\migrations\\20261012184322_changenametoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|solutionrelative:migrations\\20261012184322_changenametoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\techstoreinventory\\techstoreinventory\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\techstoreinventory\\techstoreinventory\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\techstoreinventory\\techstoreinventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\techstoreinventory\\techstoreinventory\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\techstoreinventory\\techstoreinventory\\migrations\\20261012180601_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FE4E6C-88D2-41E4-95B4-23504E7C5CFF}|TechStoreInventory.csproj|solutionrelative:migrations\\20261012180601_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20261012184322_ChangeNameToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\Migrations\\20261012184322_ChangeNameToProduct.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261012184322_ChangeNameToProduct.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\Migrations\\20261012184322_ChangeNameToProduct.cs",
+              "RelativeToolTip": "Migrations\\20261012184322_ChangeNameToProduct.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:43:22.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T18:27:37.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:16:03.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20261012180601_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\Migrations\\20261012180601_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261012180601_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\Migrations\\20261012180601_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20261012180601_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:06:02.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:53:57.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T17:48:39.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\Controllers\\Data\\InventoryContext.cs",
+              "RelativeDocumentMoniker": "Controllers\\Data\\InventoryContext.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\Controllers\\Data\\InventoryContext.cs",
+              "RelativeToolTip": "Controllers\\Data\\InventoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:43:27.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\TechStoreInventory\\TechStoreInventory\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:39:45.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

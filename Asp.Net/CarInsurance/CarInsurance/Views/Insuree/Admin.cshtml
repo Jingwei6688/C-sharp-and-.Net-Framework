@@ -1,0 +1,36 @@
+﻿@using CarInsurance.Models
+@model List<Insuree>
+
+
+<div class="row g-0 m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Car Insurance List</h5>
+        </div>
+        <div class="card-body">
+            <div class="row fw-bold border-bottom mb-2">
+                <div class="col">FirstName</div>
+                <div class="col">LastName</div>
+                <div class="col">EmailAddress</div>
+                <div class="col">Quote</div>
+            </div>
+            @foreach (var insurance in Model)
+            {
+                <div class="row">
+                    <div class="col">
+                        @insurance.FirstName
+                    </div>
+                    <div class="col">
+                        @insurance.LastName
+                    </div>
+                    <div class="col">
+                        @insurance.EmailAddress
+                    </div>
+                    <div class="col">
+                        @insurance.Quote
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

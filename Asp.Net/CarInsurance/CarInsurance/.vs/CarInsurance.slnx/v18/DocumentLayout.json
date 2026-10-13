@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\carinsurance\\carinsurance\\views\\insuree\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|solutionrelative:views\\insuree\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\carinsurance\\carinsurance\\views\\insuree\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|solutionrelative:views\\insuree\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\carinsurance\\carinsurance\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|solutionrelative:views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\carinsurance\\carinsurance\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|solutionrelative:views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\carinsurance\\carinsurance\\views\\insuree\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|solutionrelative:views\\insuree\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\carinsurance\\carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|solutionrelative:models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\carinsurance\\carinsurance\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|solutionrelative:controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|c:\\users\\lucas\\documents\\mycodes\\c-sharp-and-.net-framework\\asp.net\\carinsurance\\carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A588B18A-612A-5C53-8B99-2A07BD9FE494}|CarInsurance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Views\\Insuree\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Insuree\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Views\\Insuree\\Details.cshtml",
+              "RelativeToolTip": "Views\\Insuree\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T00:42:20.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Views\\Insuree\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Insuree\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Views\\Insuree\\Index.cshtml",
+              "RelativeToolTip": "Views\\Insuree\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T00:00:33.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T23:48:06.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Views\\Insuree\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Insuree\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Views\\Insuree\\Admin.cshtml",
+              "RelativeToolTip": "Views\\Insuree\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T23:37:32.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Views\\Insuree\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Insuree\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Views\\Insuree\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Insuree\\Edit.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T23:24:09.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Views\\Insuree\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Insuree\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Views\\Insuree\\Create.cshtml",
+              "RelativeToolTip": "Views\\Insuree\\Create.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T23:21:20.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsureeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Controllers\\InsureeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InsureeController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Controllers\\InsureeController.cs",
+              "RelativeToolTip": "Controllers\\InsureeController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAD4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T23:02:30.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Insuree.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Models\\Insuree.cs",
+              "RelativeDocumentMoniker": "Models\\Insuree.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\MyCodes\\C-sharp-and-.Net-Framework\\Asp.Net\\CarInsurance\\CarInsurance\\Models\\Insuree.cs",
+              "RelativeToolTip": "Models\\Insuree.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T22:33:11.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿@using WebApplicationTest.Models
+@model List<SignupUser>
+
+
+<div class="row g-0 m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Sign Up List</h5>
+        </div>
+        <div class="card-body">
+            @foreach (var user in Model)
+            {
+                <div class="row">
+                    <div class="col">
+                        @user.FirstName
+                    </div>
+                    <div class="col">
+                        @user.LastName          
+                    </div>
+                    <div class="col">
+                        @user.EmailAddress
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
